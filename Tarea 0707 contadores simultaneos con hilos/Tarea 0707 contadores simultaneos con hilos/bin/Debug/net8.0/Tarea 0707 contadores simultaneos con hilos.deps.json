@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea 0707 contadores simultaneos con hilos/1.0.0": {
+        "runtime": {
+          "Tarea 0707 contadores simultaneos con hilos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 0707 contadores simultaneos con hilos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

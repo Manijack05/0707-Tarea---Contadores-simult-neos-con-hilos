@@ -1,0 +1,14 @@
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.AssemblyInfoInputs.cache
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.AssemblyInfo.cs
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.csproj.CoreCompileInputs.cache
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\bin\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.exe
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\bin\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.deps.json
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\bin\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.runtimeconfig.json
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\bin\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.dll
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\bin\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.pdb
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.dll
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\refint\Tarea 0707 contadores simultaneos con hilos.dll
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.pdb
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\Tarea 0707 contadores simultaneos con hilos.genruntimeconfig.cache
+C:\Users\uuzbo\source\repos\Tarea 0707 contadores simultaneos con hilos\Tarea 0707 contadores simultaneos con hilos\obj\Debug\net8.0\ref\Tarea 0707 contadores simultaneos con hilos.dll
